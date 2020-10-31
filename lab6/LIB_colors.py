@@ -1,3 +1,7 @@
+import csv
+from operator import itemgetter
+
+
 YELLOW = (252, 238, 33)
 GRAY = (150, 150, 150)
 RED = (255, 10, 10)
